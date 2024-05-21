@@ -1,3 +1,0 @@
-# Comment ça marche ?
-
-Internet est relié via des cables enfuis dans le sol...
